@@ -3,10 +3,11 @@
 <p>Här ska jag berätta och visa hur jag har fått en lampa att blinka.</p>
 <h1>Mikroprocessor</h1>
 <p> Mikroprocessorn (MCU - micro controller unit) som användes var Plusivo. Vi använde Arduinos IDE-program men använde Plusivos MCU och la in en ytterligare board manager url som jag googlade fram - esp 8266 (http://arduino.esp8266.com/stable/package_esp8266com_index.json). 
-<br>
-  I Arduino klickade jag på <b>Tools</b>
   <br>
- <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png" width="300"></p>
+  <br>
+  Jag kopplade in Mikroprocessorn i en av datorns USB-portar.
+  <img src="
+</p>
 <h1>Här är koden</h1>
 <p>
   <code>void setup() {
@@ -24,8 +25,7 @@ void loop()
 </p>
 <p>// är kommentarer som gäller för just den raden, /* och */ är längre blockkommentarer och dom ignoreras av kompilatorn när den bygger objektkod.
 I koden kunde jag ändra <code>delay(1000)</code> för att ändra blinkningens hastighet.
-<br>
-  <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png" width="300">
-  <br>
-  <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192749.png" width="300"
 </p>
+<h2>Resultatet</h2>
+<p>Lampan blinkar blått.</p>
+<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/blinkande%20lampa.jpg" width="300">
