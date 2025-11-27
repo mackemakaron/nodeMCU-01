@@ -12,7 +12,7 @@
 <br>
 I Arduino, vänstra hörnet högst upp, hittade jag denna meny:
 <br>
-<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png" width="200">
+<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192022.png">
 <br>
 Jag klickade på <b>File -> Preferences</b> och under <b>Additional boards manager URLs</b> klistrade jag in URL för ESP8266 som jag hittade med en snabb googling.
 <br>
