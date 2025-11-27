@@ -35,7 +35,9 @@ Jag såg sedan till att mikroprocessorn var kopplad till datorn och att Arduino 
 BILD
 </p>
 <h2>Discodags!</h2>
-<p>För att få lampan att blinka behövde jag använda en blinkexempelkod som man hittar under <b>File -> Examples -> 01.Basics -> Blink </b>. Man möts av denna kod:
+<p>För att få lampan att blinka behövde jag använda en blinkexempelkod som man hittar under 
+<br>
+<b>File -> Examples -> 01.Basics -> Blink </b>. Man möts av denna kod:
 <br>
 <code>// the setup function runs once when you press reset or power the board
 void setup() {
