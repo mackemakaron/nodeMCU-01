@@ -11,12 +11,12 @@ I Arduino klickade jag på <b>File</b> i vänstra hörnet högst upp, sedan <b>P
 Sedan gick jag in i <b>Boards Manager</b> som finns i vänster kant och installerade ESP 8266.
 <br>
 <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20195500.png" width="200">
-Därefter klickade jag på <b>Tools</b> i samma hörn, 
-  <br>
-  <br>
+Därefter klickade jag på <b>Tools</b> i samma hörn och valde <b>Generic ESP8266 Module</b>
+<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192749.png" width="200">
   Jag kopplade in Mikroprocessorn i en av datorns USB-portar.
   <br>
   <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Porten.jpg" width="200">
+  Jag valde rätt port och provade
 </p>
 <h1>Här är koden</h1>
 <p>
