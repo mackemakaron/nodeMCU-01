@@ -1,8 +1,8 @@
 # Presentation-fredag
 <h1>Översikt</h1>
-<p>Med hjälp av MCU Arduino har jag fått en lampa att blinka.</p>
+<p>Med hjälp av Arduino har jag fått en lampa att blinka.</p>
 <h1>Mikroprocessor</h1>
-<p> Mikroprocessorn som användes var Plusivo </p>
+<p> Mikroprocessorn (MCU - micro controller unit) som användes var Plusivo </p>
 <h1>Här är koden</h1>
 <p>
   <code>void setup() {
