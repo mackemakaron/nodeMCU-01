@@ -40,11 +40,8 @@ Sen klickade jag på <b>Tools -> Board -> esp2866 -> Generic ESP8266 Module</b>.
 <br>
 <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20192749.png"
 <br>
-<br>
 Jag såg sedan till att mikroprocessorn var kopplad till datorn och att Arduino använde rätt port.
-<br>
-<br>
-BILD
+
 </p>
 <h2>Discodags!</h2>
 <p>För att få lampan att blinka behövde jag använda en blinkexempelkod som man hittar under 
@@ -71,7 +68,7 @@ Arduino har två basfunktioner: <code>void setup()</code> och <code>void loop()<
 <br>
 Sista steget är nu att kompilera koden och sedan ladda upp den. För att kompilera filen måste man klicka på <b>Verify</b> (bocken) och sedan på <b>Upload</b> (pilen) för att ladda upp den.
 <br>
-BILD
+<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Sk%C3%A4rmbild%202025-11-27%20200332.png">
 </p>
 <h2>Resultat</h2>
 <p>Nämen titta det lyser!</p>
