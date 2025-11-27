@@ -22,5 +22,5 @@ void loop()
 I koden kunde jag ändra <code>delay(1000)</code> för att ändra blinkningens hastighet.
 void setup -
 void loop -
-<img
+<img src="
 </p>
