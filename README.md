@@ -6,7 +6,8 @@
   <br>
   <br>
   Jag kopplade in Mikroprocessorn i en av datorns USB-portar.
-  <img src="
+  <br>
+  <img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/Porten.jpg" width="200">
 </p>
 <h1>Här är koden</h1>
 <p>
@@ -23,8 +24,9 @@ void loop()
   delay(1000);                      // wait for a second
 }</code>
 </p>
-<p>// är kommentarer som gäller för just den raden, /* och */ är längre blockkommentarer och dom ignoreras av kompilatorn när den bygger objektkod.
-I koden kunde jag ändra <code>delay(1000)</code> för att ändra blinkningens hastighet.
+<p>
+  I koden kunde jag ändra <code>delay(1000)</code> för att ändra blinkningens hastighet.
+  <h2>Fun Fact:</h2> // är kommentarer som gäller för just den raden, /* och */ är längre blockkommentarer och dom ignoreras av kompilatorn när den bygger objektkod.
 </p>
 <h2>Resultatet</h2>
 <p>Lampan blinkar blått.</p>
