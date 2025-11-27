@@ -72,7 +72,7 @@ Sista steget är nu att kompilera koden och sedan ladda upp den. För att kompil
 </p>
 <h2>Resultat</h2>
 <p>Nämen titta det lyser!</p>
-BILD
+<img src="https://github.com/mackemakaron/Presentation-fredag/blob/main/blinkande%20lampa.jpg">
 
 
 
