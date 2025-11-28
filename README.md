@@ -1,5 +1,5 @@
 <h2>Översikt</h2>
-<p>Jag har arbetat med en <b>NodeMCU</b>, ett utvecklingskort, vid namn <b>Plusivo</b> som har mikrokontrollern <b>ESP8266</b> och tillsammans med <b>Arduino IDE</b> använt en blinkexempelkod för att få en liten lampa att blinka.</p>
+<p>Jag har arbetat med en <b>NodeMCU</b>, ett utvecklingskort, vid namn <b>Plusivo</b> som har mikrokontrollern <b>ESP8266</b> och tillsammans med <b>Arduino IDE</b> har jag använt en blinkexempelkod för att få en liten lampa att blinka.</p>
 
 <h2>Vad gör Arduino?</h2>
 <p>I Arduino skriver man in <b>Source Code</b> (det vi kan tyda) som sedan kompileras till <b>Object Code</b> (det datorn kan tyda). Source code är alltså kod vi människor skriver in med ord och kan läsa, medan object code är binär kod - ettor och nollor - som datorn kan läsa. Därefter kan man ladda upp koden till en mikrokontroller med USB, och beroende på vilken dator du har, till USB-A eller USB-C. I mitt fall hade jag USB-A.</p>
